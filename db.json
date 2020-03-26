@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "BELOSA",
+      "email": "antonio.pina@tvglobo.com",
+      "dataInclusao": "28/05/2019",
+      "dataAlteracao": "30/05/2019","
+      "regras": "01",
+      "status": "ATIVO"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "samuelbelo"
   }
 }
